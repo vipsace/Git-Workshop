@@ -3,7 +3,7 @@
 
 ACE- The Computer Society of VSIT conducted a workshop on Distributed Version Control System on 7th October 2016 .
 
-The purpose of the workshop was to introduce everyone to VCS and teach them how VCS allows to pull, make changes and push them to a repository and how others can pull those changes from the repository and continue to work with the improvements that you added to the project files. It is not only fast and beeter approch for a larger project but also makes the  work flow easier.
+The purpose of the workshop was to introduce everyone to VCS and teach them how VCS allows to pull, make changes and push them to a repository and how others can pull those changes from the repository and continue to work with the improvements that you added to the project files. It is not only fast and better approch for a larger project but also makes the  work flow easier.
 
 
 Time - 12:30
