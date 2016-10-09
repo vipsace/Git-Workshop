@@ -16,7 +16,7 @@ Time - 2:30. Pre-Workshop things
     2. Filler videos before Workshop while we waited for all participants to arrive. 
 
 Time - 2:45. During Workshop
-    1. Ashsh  
+    1. Ashish  
         A little game / challenge
         Intro to VCS. 
     2. Tanseer
@@ -38,7 +38,7 @@ Time - 2:45. During Workshop
             Checking of Issues and working on them using a simple example
                 Demo on finding issue and checking it. 
             Fixing that bug and using "git add" command and "git commit"            
-TIme - 3:00
+Time - 3:00
     1. Interactive session by Nimit
 
 Time - 3:15
@@ -48,7 +48,7 @@ Time - 3:15
         And then merging all the changes. 
         Explanation of how merging works and all.
 
-        GitHub keeps tracks of contributers in the project.
+        GitHub keeps tracks of contributors in the project.
 
 Time - 3:25. Giving Attendees a chance to interact 
     1. Jasmeet Singh, BCA EA talked about his project "VEMS" in Java
@@ -69,5 +69,5 @@ Disciplinary Crew: Devansh, Rohan, Nimit.
 
 Coordination Crew: Khushi, Aditya Dhawan
 
-Photography: Vaivhav, Praveen
+Photography: Vaibhav, Praveen
     
