@@ -57,7 +57,7 @@ Time - 3:25. Giving Attendees a chance to interact
     2. Gaurav Gogia, BCA EA. Project is a full blown chatting application in C# and other related tech. 
     3. Tanseer, Shreyansh and Sanil talked about their project. AI related application that will replace GPS
     4. Ashish, Gaurav Gogia talked about their AI driven project related on Healthcare which will track future problems befoe hand. 
-    5. Srijit talked about his project. 
+    5. Srijit talked about his project. A platform where people suffering from ALS disease can communicate with internet as a module.
     6. Shreyansh talked about how OS works. Wanted to work on building of the best OS.
     7. Shibam BCA EB II. An application that will fix color blindness. 
     8. Prince BCA EA I is thinking about a startup that will fix problems / help with world problems by bringing people together.
