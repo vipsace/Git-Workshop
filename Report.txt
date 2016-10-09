@@ -1,0 +1,73 @@
+                                                    VCS - GitHub Workshop                                                    
+
+
+ACE- The Computer Society of VSIT conducted a workshop on Distributed Version Control System on 7th October 2016 .
+< Add something here >
+
+Time - 12:30
+    1. Registrations Started. 
+    2. Tanseer, Sawal & Sanil on registration desk.
+
+Time - 1:45
+    1. Registrations closed
+
+Time - 2:30. Pre-Workshop things
+    1. Workshop started.
+    2. Filler videos before Workshop while we waited for all participants to arrive. 
+
+Time - 2:45. During Workshop
+    1. Ashsh  
+        A little game / challenge
+        Intro to VCS. 
+    2. Tanseer
+        Explanation of GitHub Architecture
+        Explanation of process of adding data on GitHub
+        Repository Explanation
+        Explanation of git commands 
+    3. Ashish 
+        Explanation of how GitHub works internally
+    4. Rajeev (Demo) Ashish (Explanation)
+        Demo on use of GitHub
+            Signing into GitHub                 
+            Forking / Copying Repository from GitHub                
+            Making a local folder / working Repository
+
+            Initializing a new GitHub Repository
+            Explanation of how cloning of code can be done
+            Issues feature in GitHub Explanation and demo
+            Checking of Issues and working on them using a simple example
+                Demo on finding issue and checking it. 
+            Fixing that bug and using "git add" command and "git commit"            
+TIme - 3:00
+    1. Interactive session by Nimit
+
+Time - 3:15
+    1. Ashish (Explanation) & Rajeev(Demo)
+        Telling people that bug has been fixed. 
+        Creation of pull request        
+        And then merging all the changes. 
+        Explanation of how merging works and all.
+
+        GitHub keeps tracks of contributers in the project.
+
+Time - 3:25. Giving Attendees a chance to interact 
+    1. Jasmeet Singh, BCA EA talked about his project "VEMS" in Java
+    2. Gaurav Gogia, BCA EA. Project is a full blown chatting application in C# and other related tech. 
+    3. Tanseer, Shreyansh and Sanil talked about their project. AI related application that will replace GPS
+    4. Ashish, Gaurav Gogia talked about their AI driven project related on Healthcare which will track future problems befoe hand. 
+    5. Srijit talked about his project. 
+    6. Shreyansh talked about how OS works. Wanted to work on building of the best OS.
+    7. Shibam BCA EB II. An application that will fix color blindness. 
+    8. Prince BCA EA I is thinking about a startup that will fix problems / help with world problems by bringing people together.
+
+Time - 3:35 End of Workshop by giving final touch      
+    1. GitHub student developer pack. 
+    2. Taking suggestions from participants.
+    3. Purpose and final words by Ms. Indu Sahu     
+
+Disciplinary Crew: Devansh, Rohan, Nimit. 
+
+Coordination Crew: Khushi, Aditya Dhawan
+
+Photography: Vaivhav, Praveen
+    
