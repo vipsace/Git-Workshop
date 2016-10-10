@@ -1,0 +1,20 @@
+                                                VCS - GitHub Workshop (Student Details)
+
+1.  Tanseer Saji           BCA 1C
+2.  Sawal Kalra            BCA 1EB
+3.  Sanil Khurana          BCA 1B
+4.  Ashish Pawha           BCA 3A
+5.  Rajeev Jha             BCA 1B
+6.  Nimit Pawha            BCA 5A
+7.  Jasmeet Singh          BCA EA
+8.  Gaurav Gogia           BCA 3EA
+9.  Shreyans Jain          BCA 1B
+10. Srijit S Madhavan      BCA 1EB
+11. Shibam Mukherjee       BCA 3EB
+12. Prince Mondal          BCA 1EA
+13. Devansh Gupta          BCA 1A
+14. Rohan Kumar Singh      BCA 3EB
+15. Khushi Jain            BCA 1B
+16. Aditya Dhawan          BCA 5A
+17. Vaibhav Suri           BCA 5A
+18. Praveen Karmakar       BCA 5A
